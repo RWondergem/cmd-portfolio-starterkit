@@ -1,14 +1,15 @@
-Title: Robin Sinke
+Title: René Wondergem's Portfolio Website
 
 ----
 
 Logo:
 
-- robinsinke.jpeg
+- >
+  nature_mountain_eagle_fog_landscape_ultrahd_4k_wallpaper_3840x2160.jpg
 
 ----
 
-Email: r.sinke@hr.nl
+Email: r.wondergem@hr.nl
 
 ----
 
@@ -16,7 +17,7 @@ Social:
 
 - 
   platform: Twitter
-  url: https://twitter.com/robzooi
+  url: https://twitter.com/bla
 - 
   platform: LinkedIn
   url: https://www.linkedin.com/in/robinsinke/
